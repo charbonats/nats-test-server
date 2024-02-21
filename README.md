@@ -1,3 +1,3 @@
 # NATS Test Server
 
-See usage [here](https://charbonats.github.io/nats-test-server).
+See usage [here](https://charbonats.github.io/nats-test-server/).
